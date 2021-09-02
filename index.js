@@ -13,12 +13,12 @@ function getEnvLocale(env) {
 let DATA = {
   name: "Ákos",
   date: new Date().toLocaleDateString(getEnvLocale(), {
+    year: "numeric",
     weekday: "long",
     month: "long",
     day: "numeric",
     hour: "numeric",
     minute: "numeric",
-    timeZoneName: "short",
     timeZone: Intl.DateTimeFormat().resolvedOptions().timeZone,
   }),
 };
