@@ -6,16 +6,20 @@ const MUSTACHE_MAIN_DIR = "./main.mustache";
  * the data to be provided to Mustache
  * Notice the "name" and "date" property.
  */
+function getEnvLocale(env) {
+  env = env || process.env;
+  return env.LC_ALL || env.LC_MESSAGES || env.LANG || env.LANGUAGE;
+}
 let DATA = {
   name: "Ákos",
-  date: new Date().toLocaleDateString("hu-HU", {
+  date: new Date().toLocaleDateString(getEnvLocale(), {
     weekday: "long",
     month: "long",
     day: "numeric",
     hour: "numeric",
     minute: "numeric",
     timeZoneName: "short",
-    timeZone: "Europe/Hungary",
+    timeZone: Intl.DateTimeFormat().resolvedOptions().timeZone,
   }),
 };
 /**
