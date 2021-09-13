@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/skreepz" target="blank"><img src="https://img.shields.io/twitter/follow/skreepz?logo=twitter&style=for-the-badge" alt="skreepz" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phollaki&label=Profile%20views&color=0e75b6&style=flat" alt="phollaki" /> </p>
-- 🔭 I’m currently working on https://github.com/phollaki/StudentManagementSystem_BigFive
+- 🔭 I’m currently working on https://github.com/phollaki/Big-Five-Personalities
 
 - 👨‍💻 All of my projects are available at **https://github.com/phollaki?tab=repositories**
 
