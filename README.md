@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at **https://github.com/phollaki?tab=repositories**
 
-- 🌱 I’m currently learning [JavaScript and Python](https://github.com/phollaki/Bank-webpage-with-javascript)
+- 🌱 I’m currently learning [Web development](https://github.com/phollaki/Bank-webpage-with-javascript)
 
 - 📫 How to reach me phollakos15@gmail.com
 
