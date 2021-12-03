@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phollaki&label=Profile%20views&color=0e75b6&style=flat" alt="phollaki" /> </p>
 
-- 💻 My portfolio site - made with NextJS, tailwindCSS https://puteaniholla.netlify.app/
+- 💻 My portfolio site - made with ReactJS https://phollaki.netlify.app/
 
 - 🔭 I’m currently working on https://github.com/phollaki/Big-Five-Personalities
 
