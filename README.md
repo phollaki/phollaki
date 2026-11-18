@@ -29,6 +29,17 @@ Most of my client work lives in private repos, so here you see the apps I build 
       <code>Swift</code> <code>macOS</code> <code>LLM</code>
     </td>
   </tr>
+  <tr>
+    <td width="45%"><a href="https://babora.site"><img src="https://babora.site/assets/og.jpg" alt="Babora" /></a></td>
+    <td>
+      <h4><a href="https://babora.site">Babora</a> 🤰</h4>
+      Hungarian pregnancy app for iPhone and Android.
+      A 3D model of the baby for every week, weekly information and health logs.
+      No account, and all data stays on the phone.
+      <br /><br />
+      <code>React Native</code> <code>Expo</code> <code>Three.js</code>
+    </td>
+  </tr>
 </table>
 
 More projects on my website: [puteanihollakos.com](https://puteanihollakos.com)
